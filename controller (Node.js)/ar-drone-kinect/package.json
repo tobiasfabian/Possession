@@ -1,0 +1,12 @@
+{
+  "author": "Tobias F. Wolf",
+  "website": "http://www.tobiaswolf.me",
+  "name": "ar-drone-kinect",
+  "description": "A node.js script which is getting data from jsonJoints.pde via websockets and controls a AR.Drone 2.0.",
+  "contributors": ["Phillip Klein"],
+  "version": "0.1",
+  "dependencies": {
+    "ar-drone": "0.3.3",
+    "ws": "0.7.2"
+  }
+}
